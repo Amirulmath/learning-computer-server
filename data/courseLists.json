@@ -1,0 +1,26 @@
+[
+    {
+      "course_id": "01",
+      "course_name": "Basic Computer"
+    },
+    {
+      "course_id": "02",
+      "course_name": "Microsoft Office"
+    },
+    {
+      "course_id": "03",
+      "course_name": "Web Development"
+    },
+    {
+      "course_id": "04",
+      "course_name": "Graphic Design"
+    },
+    {
+      "course_id": "05",
+      "course_name": "Programming Languages"
+    },
+    {
+      "course_id": "06",
+      "course_name": "Video Editing"
+    }
+  ]
