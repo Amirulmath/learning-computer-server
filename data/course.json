@@ -1,6 +1,6 @@
 [
     {
-      "id": "01",
+      "_id": "01",
       "title": "Basic Computer",
       "types": "Computer Fundamentals, Typing, Microsoft Office & IT Diploma etc.",
       "details": "Our online Basic Computer course has been running since last 5 years. We conduct classes by experienced teachers with utmost reliability. You can safely enroll in our course. We provide certificate on Basic Computer at the end of the course. You can guarantee employment in the country or abroad with that certificate. So do not delay and enroll in our course today.",
@@ -15,7 +15,7 @@
       "image_url": "https://cheerful-entremet-680425.netlify.app/images/Computer.png"
     },
     {
-      "id": "02",
+      "_id": "02",
       "title": "Microsoft Office",
       "types": "MS Word, Excel, Access & PowerPoint etc.",
       "details": "Our online Microsoft Office course has been running since last 5 years. We conduct classes by experienced teachers with utmost reliability. You can safely enroll in our course. We provide certificate on Microsoft Office at the end of the course. You can guarantee employment in the country or abroad with that certificate. So do not delay and enroll in our course today.",
@@ -30,7 +30,7 @@
       "image_url": "https://cheerful-entremet-680425.netlify.app/images/ms-office.png"
     },
     {
-      "id": "03",
+      "_id": "03",
       "title": "Web Development",
       "types": "HTML, HTML5, CSS, Vanilla CSS, Javascript, Different JavaScript & CSS Library etc.",
       "details": "Our online Web Development course has been running since last 5 years. We conduct classes by experienced teachers with utmost reliability. You can safely enroll in our course. We provide certificate on Web Development at the end of the course. You can guarantee employment in the country or abroad with that certificate. So do not delay and enroll in our course today.",
@@ -45,7 +45,7 @@
       "image_url": "https://cheerful-entremet-680425.netlify.app/images/web.png"
     },
     {
-      "id": "04",
+      "_id": "04",
       "title": "Graphic Design",
       "types": "Photo editing by Photoshop & Lightroom, Logo & card designing by Illustrator etc.",
       "details": "Our online Graphic Design course has been running since last 5 years. We conduct classes by experienced teachers with utmost reliability. You can safely enroll in our course. We provide certificate on Graphic Design at the end of the course. You can guarantee employment in the country or abroad with that certificate. So do not delay and enroll in our course today.",
@@ -60,7 +60,7 @@
       "image_url": "https://cheerful-entremet-680425.netlify.app/images/graphics-design.png"
     },
     {
-      "id": "05",
+      "_id": "05",
       "title": "Programming Languages",
       "types": "C, C++, Java & PHP etc.",
       "details": "Our online Programming Languages course has been running since last 5 years. We conduct classes by experienced teachers with utmost reliability. You can safely enroll in our course. We provide certificate on Programming Languages at the end of the course. You can guarantee employment in the country or abroad with that certificate. So do not delay and enroll in our course today.",
@@ -75,7 +75,7 @@
       "image_url": "https://cheerful-entremet-680425.netlify.app/images/programming.png"
     },
     {
-      "id": "06",
+      "_id": "06",
       "title": "Video Editing",
       "types": "Video Production, Videography, Filmmaking & VFX Compositing etc.",
       "details": "Our online Video Editing course has been running since last 5 years. We conduct classes by experienced teachers with utmost reliability. You can safely enroll in our course. We provide certificate on Video Editing at the end of the course. You can guarantee employment in the country or abroad with that certificate. So do not delay and enroll in our course today.",
