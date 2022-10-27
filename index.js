@@ -16,6 +16,10 @@ app.get('/course-lists', (req, res) =>{
     res.send(courseLists)
 });
 
+app.get('/all-course', (req, res) =>{
+    res.send(courses);
+});
+
 app.get('/list/:id', (req, res) =>{
     const id =req.params.id;
     const lists = courses.filter(course => course._id ===id);
